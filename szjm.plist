@@ -10,7 +10,7 @@
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
-					<key>url</key>
+					<key>url</key> 
 					<string>http://172.16.15.141:3608/download/szjm.ipa</string>
 				</dict>
 				<dict>
